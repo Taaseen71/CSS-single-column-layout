@@ -1,7 +1,8 @@
 
 body{
   font-family: 'Baloo Thambi 2', cursive;
-  background: black;
+  background:#000000; 
+  /* sorry i wanted to use black lol */
   margin: 20px;
 }
 #navigationBar{
@@ -51,4 +52,25 @@ h2 {
   color: gray;
   margin: -50px 5px 0 0;
   padding: 
+}
+
+#section1{
+  text-align: center;
+  color: #FFFFFF
+}
+#section1 h3{
+  font-size: 23px;
+}
+#profilePicture{
+  border-radius: 50%;
+}
+#section1 p {
+margin: 1% 30%;
+}
+#section2 {
+  color: #FFFFFF;
+  text-align: center;
+}
+#myImagesSet1, #myImagesSet2{
+  display: block;
 }
