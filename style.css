@@ -1,0 +1,54 @@
+
+body{
+  font-family: 'Baloo Thambi 2', cursive;
+  background: black;
+  margin: 20px;
+}
+#navigationBar{
+  text-align: right;
+  background: rgb(5, 0, 44);
+  padding: 20px;
+  padding: 10px 20px 10px -100px;
+  margin: 0px;
+  
+}
+.headerList{
+  display: inline-block;
+  padding: 0px 20px;
+
+}
+
+a{
+  
+  color:white;
+  display: inline;
+  text-decoration: none;
+  
+}
+#headerImage{
+  background: black;
+  text-align: right;
+
+}
+#introduction {
+
+  position: absolute;
+  top: 160px;
+  left: 250px;
+  padding: 50px;
+  /*REMOVE THIS*/
+  /* background: green;  */
+}
+
+
+h1 {
+  color: white;
+  font-size: 40px;
+  /* border: dotted black 2px;  */
+  
+}
+h2 {
+  color: gray;
+  margin: -50px 5px 0 0;
+  padding: 
+}
